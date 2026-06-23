@@ -1,3 +1,4 @@
+# awesome-food
 ### 🍳 Getting Started
 
 - [Serious Eats](https://www.seriouseats.com) - A food-science-forward cooking site with deeply tested recipes, technique breakdowns, and guides that explain *why* a method works, not just how.
